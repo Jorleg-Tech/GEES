@@ -1,8 +1,9 @@
 ﻿# GEES (Gestion Efficace des Établissement Scolaires)
 
  # Membre du groupe
+ - Magda JOSEPH
  - Joriel JOSEPH
-- Jobianne M. LACHAUD
+ - Jobianne M. LACHAUD
  
 ### Description de l'aplication
 Gérer les données d'un établissement scolaire pendant des années, n'est pas une mince affaire, c'est pourquoi, on ne peut pas vraiment tenu les dirigeants comme responsable
